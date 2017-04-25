@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord-gedit/develop/src/assets/nord-gedit-banner.svg"/></p>
 
-<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/nord-gedit/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-gedit.svg"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-blue.svg"/></a> <img src="https://static.gnome.org/wiki.gnome.org/gnome/css/favicon.png" width=16 height=16/> <a href="https://wiki.gnome.org/Projects/GtkSourceView"><img src="https://img.shields.io/badge/GtkSourceView-v3.22.1-blue.svg"/></a></p>
+<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/nord-gedit/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-gedit.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a> <img src="https://static.gnome.org/wiki.gnome.org/gnome/css/favicon.png" width=16 height=16/> <a href="https://wiki.gnome.org/Projects/GtkSourceView"><img src="https://img.shields.io/badge/GtkSourceView-v3.22.1-blue.svg?style=flat-square"/></a></p>
 
 <p align="center">An arctic, north-bluish clean and elegant <a href="https://wiki.gnome.org/Apps/Gedit">gedit</a> color scheme.</p>
 
@@ -85,7 +85,7 @@ Detailed descriptions for supported languages can be found in the [project wiki]
 ![][scrot-lang-shell]
 
 ## Development
-[![](https://img.shields.io/badge/Changelog-0.1.0-blue.svg)](https://github.com/arcticicestudio/nord-gedit/blob/v0.1.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow--branching--model-blue.svg)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-blue.svg)](https://github.com/arcticicestudio/arcver)
+[![](https://img.shields.io/badge/Changelog-0.1.0-81A1C1.svg?style=flat-square)](https://github.com/arcticicestudio/nord-gedit/blob/v0.1.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow--branching--model-81A1C1.svg?style=flat-square)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-81A1C1.svg?style=flat-square)](https://github.com/arcticicestudio/arcver)
 
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/arcticicestudio/nord-gedit/issues).
@@ -94,7 +94,7 @@ Please report issues/bugs, feature requests and suggestions for improvements to 
 
 <p align="center"> <img src="http://arcticicestudio.com/favicon.ico" width=16 height=16/> Copyright &copy; 2016 Arctic Ice Studio</p>
 
-<p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"/></a> <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg"/></a></p>
+<p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg?style=flat-square"/></a> <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.svg?style=flat-square"/></a></p>
 
 [scrot-lang-c]: https://raw.githubusercontent.com/arcticicestudio/nord-gedit/develop/src/assets/scrot-lang-c.png
 [scrot-lang-css]: https://raw.githubusercontent.com/arcticicestudio/nord-gedit/develop/src/assets/scrot-lang-css.png
