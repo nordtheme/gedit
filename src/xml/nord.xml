@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-title      Nord gedit                                    +
-project    nord-gedit                                    +
-version    0.1.0                                         +
-repository https://github.com/arcticicestudio/nord-gedit +
-author     Arctic Ice Studio                             +
-email      development@arcticicestudio.com               +
-copyright  Copyright (c) 2016                            +
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
+Copyright (c) 2016-present Sven Greb <code@svengreb.de>
 
-[References]
-Nord
-  (http://github.com/arcticicestudio/nord)
-GTKSourceView
-  (https://developer.gnome.org/gtksourceview/stable/style-reference.html)
-  (https://developer.gnome.org/gtksourceview/stable/lang-reference.html)
-  (https://developer.gnome.org/gtksourceview/stable/GtkSourceStyle.html)
-  (https://developer.gnome.org/gtksourceview/stable/GtkSourceStyleScheme.html)
+Project:    Nord gedit
+Version:    0.1.0
+Repository: https://github.com/arcticicestudio/nord-gedit
+License:    MIT
+References:
+  https://developer.gnome.org/gtksourceview/stable/style-reference.html
+  https://developer.gnome.org/gtksourceview/stable/lang-reference.html
+  https://developer.gnome.org/gtksourceview/stable/GtkSourceStyle.html
+  https://developer.gnome.org/gtksourceview/stable/GtkSourceStyleScheme.html
 -->
 <style-scheme id="nord-gedit" name="Nord" filename="nord.xml" version="1.0">
   <author>Arctic Ice Studio</author>
