@@ -130,7 +130,7 @@ NORD_GEDIT_SCRIPT_OPTS=`getopt -o vghs: --long verbose,global,help,schemefile: -
 COLOR_SCHEME_FILE=src/xml/nord.xml
 VERBOSE=false
 GLOBAL_INSTALL=false
-LOCAL_INSTALL_DIR=~/.local/share/gedit/styles
+LOCAL_INSTALL_DIR=~/.local/share/gtksourceview-3.0/styles
 GLOBAL_INSTALL_DIR=/usr/share/gtksourceview-3.0/styles
 
 eval set -- "$NORD_GEDIT_SCRIPT_OPTS"

@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/nord-gedit/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-gedit.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a> <img src="https://static.gnome.org/wiki.gnome.org/gnome/css/favicon.png" width=16 height=16/> <a href="https://wiki.gnome.org/Projects/GtkSourceView"><img src="https://img.shields.io/badge/GtkSourceView-v3.22.1-blue.svg?style=flat-square"/></a></p>
 
-<p align="center">An arctic, north-bluish clean and elegant <a href="https://wiki.gnome.org/Apps/Gedit">gedit</a> color scheme.</p>
+<p align="center">An arctic, north-bluish clean and elegant <a href="https://wiki.gnome.org/Apps/Gedit">gedit</a> color scheme also compatible with apps that use GtkSourceView 3.0+.</p>
 
 <p align="center">Designed for a fluent and clear workflow.<br>
 Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color palette.</p>
@@ -16,7 +16,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 #### Manual
 Copy the [`nord.xml`](https://github.com/arcticicestudio/nord-gedit/tree/develop/src/xml/nord.xml) file to the color schemes directory according to the desired installation type.
 
-Local: `~/.local/share/gedit/styles`
+Local: `~/.local/share/gtksourceview-3.0/styles`
 Global: `/usr/share/gtksourceview-3.0/styles`
 
 #### Import
