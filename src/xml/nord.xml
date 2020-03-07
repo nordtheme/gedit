@@ -19,6 +19,7 @@ References:
 
   <color name="nord0" value="#2E3440" />
   <color name="nord1" value="#3B4252" />
+  <color name="nord1-darkened" value="#343842" />
   <color name="nord2" value="#434C5E" />
   <color name="nord3" value="#4C566A" />
   <color name="nord3-brightened" value="#616E88" />
@@ -40,7 +41,7 @@ References:
 <!--+- - - - - +
     + Settings +
     +- - - - - +-->
-  <style name="background-pattern" background="nord1"/>
+  <style name="background-pattern" background="nord1-darkened"/>
   <style name="bracket-match" foreground="nord4" background="nord10"/>
   <style name="bracket-mismatch" foreground="nord11" underline="true" />
   <style name="current-line" foreground="nord4" background="nord1" />
