@@ -85,7 +85,7 @@ References:
   <style name="def:doc-comment" use-style="def:comment" />
   <style name="def:doc-comment-element" foreground="nord9" />
   <style name="def:net-address-in-comment" foreground="nord3-brightened" underline="true" />
-  <style name="def:note" use-style="def:comment" />
+  <style name="def:note" foreground="nord13" bold="true" />
 
   <!--+- Keywords -+-->
   <style name="def:class" foreground="nord7" />
