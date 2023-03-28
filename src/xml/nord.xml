@@ -1,20 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!--
-Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
-Copyright (c) 2016-present Sven Greb <code@svengreb.de>
-
-Project:    Nord gedit
-Version:    0.1.0
-Repository: https://github.com/arcticicestudio/nord-gedit
-License:    MIT
-References:
-  https://developer.gnome.org/gtksourceview/stable/style-reference.html
-  https://developer.gnome.org/gtksourceview/stable/lang-reference.html
-  https://developer.gnome.org/gtksourceview/stable/GtkSourceStyle.html
-  https://developer.gnome.org/gtksourceview/stable/GtkSourceStyleScheme.html
+Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+This source code is licensed under the MIT license found in the license file.
 -->
-<style-scheme id="nord-gedit" name="Nord" filename="nord.xml" version="1.0">
-  <author>Arctic Ice Studio</author>
+<!--
+References:
+  1. https://developer.gnome.org/gtksourceview/stable/style-reference.html
+  2. https://developer.gnome.org/gtksourceview/stable/lang-reference.html
+  3. https://developer.gnome.org/gtksourceview/stable/GtkSourceStyle.html
+  4. https://developer.gnome.org/gtksourceview/stable/GtkSourceStyleScheme.html
+-->
+<style-scheme id="nord" name="Nord" filename="nord.xml" version="1.0">
+  <author>Sven Greb (development@svengreb.de)</author>
   <description>An arctic, north-bluish clean and elegant gedit syntax theme.</description>
 
   <color name="nord0" value="#2E3440" />
@@ -40,8 +37,8 @@ References:
 <!--+- - - - - +
     + Settings +
     +- - - - - +-->
-  <style name="background-pattern" background="nord1"/>
-  <style name="bracket-match" foreground="nord4" background="nord10"/>
+  <style name="background-pattern" background="nord1" />
+  <style name="bracket-match" foreground="nord4" background="nord10" />
   <style name="bracket-mismatch" foreground="nord11" underline="true" />
   <style name="current-line" foreground="nord4" background="nord1" />
   <style name="cursor" foreground="nord4" />
@@ -331,10 +328,10 @@ References:
   <style name="sh:common-command" foreground="nord9" italic="true" />
   <style name="sh:function" use-style="def:function" />
   <style name="sh:here-doc-bound" use-style="def:keyword" />
-  <style name="sh:keyword"  use-style="def:keyword" />
+  <style name="sh:keyword" use-style="def:keyword" />
   <style name="sh:others" use-style="def:keyword" />
-  <style name="sh:string"  use-style="def:string" />
-  <style name="sh:variable"  use-style="def:variable" />
+  <style name="sh:string" use-style="def:string" />
+  <style name="sh:variable" use-style="def:variable" />
   <style name="sh:variable-definition" use-style="def:variable" />
 
   <style name="xml:attribute-name" use-style="def:attribute" />
